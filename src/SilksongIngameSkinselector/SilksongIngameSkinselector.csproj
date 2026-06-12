@@ -8,6 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="TaleSpire" Version="1.5.1" />
+    <PackageReference Include="Talespire.BepInEx" Version="5.4.22" />
     <PackageReference Include="UnityEngine.CoreModule" Version="2020.3.1" />
     <PackageReference Include="UnityEngine.IMGUIModule" Version="2020.3.1" />
   </ItemGroup>
